@@ -1,5 +1,5 @@
 # credit-card-fraud-detection
-Machine learning project to detect fraudulent credit card transactions
+Project to detect fraudulent credit card transactions
 
 
 
